@@ -51,7 +51,7 @@ You need a code editor, preferably VS Code, and a browser to view the project.
 
 ## Screenshots
 
-![Netflix Clone Screenshot](N-screenshot.pnd)
+![Netflix Clone Screenshot](N-screenshot.png)
 
 ## Contributing
 
